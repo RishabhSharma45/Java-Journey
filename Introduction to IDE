@@ -1,0 +1,8 @@
+Integrated Development Environment .
+IDE basically used to increase the productivity + Code quality . 
+as IDE having - Code Editor + Compiler/Interpretor + Debugger + Tools to assist Codes + Version Control Integration + Build automation tools + Testing + Plugins and Extensions...
+
+What is Version Control Integration -
+   basically it is a feature having ide such as eclipse to work with version control systems such as GIT . it helps developer to manage changes in codebase directory within the IDE hence no need to use separate version control tools.
+         Key Aspects?
+               Source Code management , branching and merging , collabration , commit and push and conflict resolution .
