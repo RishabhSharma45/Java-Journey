@@ -1,0 +1,23 @@
+Eclipse - Popular Integrated Development Environment .
+
+Features ?
+   Powerfull code Editor , 
+   Version control - Git Integration , 
+   Integrated debugger , 
+   Extensive plugins - eclipse marketplace .
+
+Project setup and management ?
+   new project - file/new/javaproject
+   dependencies - project/properties/Java build path
+   maven/Gradle  - manage through pom.xml / build.gradle 
+
+Code development and Debugging ?
+   Debugging , Refractor , and code templates.
+
+Version Control Integration ?
+  Git Integration - clone , commit manage branches eith EGIT plugin.
+
+Testing and Quality assurance ?
+   JUnit Test - run as -> JUnit test
+   Code quality tools - present in eclipse marketplace
+  Ci piplines - Integrate Eclipse with jenkins
