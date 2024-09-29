@@ -1,0 +1,19 @@
+Let's Start from very Begining as with Downloading JDk.
+jDk - Stands for java development Kit . It is a essential tool box for a java developer to design a java application . it creates a java runtime environment as well probides different tools for compiling , debugging and running application .
+In sort it is a brain behind every java application enabling developers to create robust and high performance software .
+Example - Let's say kitchen is a jdk and chef is a developer than tools such as knife , pan ,pots are the tools of jdk(Kitchen) where all the ingredietns are the short codes which added in the vessel to develop a delicious dish that is java application.
+
+What is Stable and Unstable jdks ?
+    Stable jdks are the version which are gone through several testing processes and in last found bug free . where as unstable jdks are still in testing phase and having some bugs . thus stable jdks are considered reliable for developing java applications . these versions are long term support(LTS) releases . ensuring updates , patches and security fixes over a long period.
+    eg. of stable jdk - Java8 , java17 etc.
+use a stable jdk with backporting to use newly added functionality of updated jdk's which is still unstable .
+
+Some popular bodies that provides jdk are :-
+Oracle jdk - best for commercial support.
+Open jdk - not good for commercial support.
+Eclipse temurin - good for community support.
+Amazon correto - best for cloud environment.
+
+Brief history of jdk - 
+as we all know in mid of 90's java was developed by sun microsystem . as in 2006 they made jdk open source under the license of GNU . as in 2010 Oracle takes over Sun Microsystem. The aquisition gave control to oracle over java se and jdk.
+
